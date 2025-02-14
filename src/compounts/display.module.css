@@ -1,0 +1,12 @@
+.display{
+margin: 10px;
+width: 175px;
+font-size: 25px;
+box-shadow: 3px 3px 3px rgb(179, 177, 177), -3px -3px 3px rgb(179, 177, 177);
+border: none;
+border-radius: 8px;
+/* background-color:; */
+font-weight: 700;
+}
+
+
